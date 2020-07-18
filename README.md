@@ -6,7 +6,7 @@ One of the simplest keyboard for XR applications developed with Unity-2019.
 
 Keys of this keyboard respond to collision with objects tagged as `Stylus`. 
 
-This project depends on no XR libraries and can not work in XR application alone. 
+This project depends on no XR libraries. 
 
 Please attach colliders tagged as `Stylus` to your fingertips or mallets. 
 
@@ -16,10 +16,10 @@ Please attach colliders tagged as `Stylus` to your fingertips or mallets.
 1. Clone or download this repository
 1. Open the repository as a new project with Unity-2019
 1. Open and Play `Assets/SimplePhysicalKeyboard/Scenes/SampleScene.unity`
-1. Move styluses and press keys
+1. Move styluses and press keys for testing
 1. Export `Assets/SimplePhysicalKeyboard` as unitypackage
 1. Import this package to your XR project.
-1. Add colliders tagged as ``Stylus" to your fingertips or mallets. 
+1. Add colliders tagged as `Stylus` to your fingertips or mallets. 
 
 ## Example of using with Oculus Integration
 
